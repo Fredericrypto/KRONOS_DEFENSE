@@ -22,9 +22,10 @@ O frontend foi desenvolvido com foco em UX industrial, garantindo legibilidade e
 
 | Central de Comando (Modo Stealth) | Identificação & Logs |
 | :---: | :---: |
-| ![Dashboard](LINK_DA_SUA_FOTO_1) | ![Logs](LINK_DA_SUA_FOTO_2) |
+| ![Dashboard](assets/KRONOS_DASHBOARD.png) | ![Logs](assets/KRONOS_LOGS.png) |
 
 > [cite_start]**Nota:** A interface utiliza uma paleta de cores de alto contraste para operações em ambientes de baixa luminosidade, reduzindo a fadiga visual do operador[cite: 42].
+
 
 ## 🛠️ Stack Tecnológica
 * [cite_start]**Linguagem:** Python 3.10+ [cite: 20]
