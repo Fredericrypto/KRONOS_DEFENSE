@@ -1,0 +1,19 @@
+# Ambientes Virtuais
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Dados Sensíveis (CRÍTICO)
+.env
+*.env
+
+# Banco de Dados e Capturas Locais
+db/capturas/*
+!db/capturas/.gitkeep
+db/rostos/*
+!db/rostos/.gitkeep
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
